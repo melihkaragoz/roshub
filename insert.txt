@@ -1,1 +1,0 @@
-INSERT INTO userdata (username,password,user_mail,register_date,teams) VALUES('admin','admin','rubwally@gmail.com','06/05/2021','admins');
