@@ -1,2 +1,5 @@
 # roshub
-free cloud to upload your files
+
+*** PROJE EKSIK, VERI TABANI TABLOLARI OLUSTURULMADI ***
+
+Localinizde veya public olarak kullanabileceğiniz açık kaynak kodlu dosya depolama sistemi.
