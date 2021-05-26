@@ -1,6 +1,6 @@
 <?php 
 
-$baglanti = new mysqli("localhost", "root", "", "SOCIAL");   // veritabanına baglanma komutları
+$baglanti = new mysqli("localhost", "<veritabani_kullanici", "<veritabani_parola", "<veritabani_adi>");   // veritabanına baglanma komutları
 $GLOBALS['baglanti'] = $baglanti;
 if ($baglanti->connect_errno > 0) die("<b>Bağlantı Hatası:</b> " . $baglanti->connect_error);
 $baglanti->set_charset("utf8");
